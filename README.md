@@ -1,4 +1,4 @@
-# UberEatsClone
+# Yam Eats
 
 ## Module 1 - UberEats User: <a href="www.github.com/UberEatsUser">www.github.com/YamEatsUser</a>
 
