@@ -1,13 +1,19 @@
 # Yam Eats
 
-## Module 1 - UberEats User: [www.github.com/yameats-user](https://github.com/gh-shujauddin/yameats-user)
+Welcome to Yam Eats, a comprehensive platform designed to enhance the dining and delivery experience for customers, couriers, and restaurant owners. Yam Eats consists of three main components: the Customer App, the Courier App, and the Restaurant Dashboard Website. Each component is built with cutting-edge technologies to provide a seamless and efficient experience for all users.
+
+## Module 1 - YamEats User: [www.github.com/yameats-user](https://github.com/gh-shujauddin/yameats-user)
+
+The Yam Eats User App is a mobile application built with React Native and AWS Amplify, allowing users to browse restaurants, add dishes to their baskets, place orders, and track live orders on a map.
 
 Restaurant | Details | Orders | Track order
 --- | --- | --- |--- 
 <img src="https://github.com/gh-shujauddin/public-images/assets/73093103/5f10c6ef-5027-479b-ba67-f55ecd28cfbe" width="300" /> | <img src="https://github.com/gh-shujauddin/yameats-user/assets/73093103/2a614591-2b15-4b98-9aef-316717b830f9" width="300" /> | <img src="https://github.com/gh-shujauddin/yameats-user/assets/73093103/9b6533e2-b8e5-4091-a45d-faeeff481eda" width="300" />  | <img src="https://github.com/gh-shujauddin/yameats-user/assets/73093103/876b9901-51d3-4bd6-be01-74b20d427991" width="300" />
 
 
-## Module 2 - UberEats User: [www.github.com/yam-eats-courier](https://github.com/gh-shujauddin/yam-eats-courier)
+## Module 2 - Yam Eats Courier: [www.github.com/yam-eats-courier](https://github.com/gh-shujauddin/yam-eats-courier)
+
+The Yam Eats Courier App is a mobile application built with React Native, AWS Amplify, and Google Places API, designed to streamline the process for couriers to register, pick up orders from restaurants, and deliver them to customers. The app provides real-time location updates, navigation, and distance and time details to enhance the delivery experience.
 
 Map Navigation | Orders | Order details | Destination routing
 --- | --- | --- |--- 
@@ -16,6 +22,8 @@ Map Navigation | Orders | Order details | Destination routing
 <br />
 
 ## Module 3 - UberEats User: [www.github.com/yam-eats-restaurant-dashboard](https://github.com/gh-shujauddin/yam-eats-restaurant-dashboard)
+
+The Yam Eats Restaurant Dashboard is a web application that allows restaurant owners to manage their restaurant profiles and menus. Built with modern web technologies, the dashboard provides an intuitive interface for restaurant management.
 
 <img src="https://github.com/gh-shujauddin/public-images/assets/73093103/04a6cef3-9dba-4bcd-85e4-92947eb5410e" alt="project-screenshot" width="700" height="400/">
 
