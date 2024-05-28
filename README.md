@@ -25,6 +25,10 @@ Map Navigation | Orders | Order details | Destination routing
 
 The Yam Eats Restaurant Dashboard is a web application that allows restaurant owners to manage their restaurant profiles and menus. Built with modern web technologies, the dashboard provides an intuitive interface for restaurant management.
 
+<h2>🚀 Demo</h2>
+
+[https://yameatsrestaurant.netlify.app/](https://yameatsrestaurant.netlify.app/)
+
 <img src="https://github.com/gh-shujauddin/public-images/assets/73093103/04a6cef3-9dba-4bcd-85e4-92947eb5410e" alt="project-screenshot" width="700" height="400/">
 
 <img src="https://github.com/gh-shujauddin/public-images/assets/73093103/c786a9ea-054b-4ac7-9558-35a89cd25ba8" alt="project-screenshot" width="700" height="400/">
