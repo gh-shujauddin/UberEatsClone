@@ -21,7 +21,7 @@ Map Navigation | Orders | Order details | Destination routing
 
 <br />
 
-## Module 3 - UberEats User: [www.github.com/yam-eats-restaurant-dashboard](https://github.com/gh-shujauddin/yam-eats-restaurant-dashboard)
+## Module 3 - YamEats Restaurant: [www.github.com/yam-eats-restaurant-dashboard](https://github.com/gh-shujauddin/yam-eats-restaurant-dashboard)
 
 The Yam Eats Restaurant Dashboard is a web application that allows restaurant owners to manage their restaurant profiles and menus. Built with modern web technologies, the dashboard provides an intuitive interface for restaurant management.
 
