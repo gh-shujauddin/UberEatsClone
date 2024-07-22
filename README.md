@@ -1,3 +1,5 @@
+![Yam Eats](https://github.com/user-attachments/assets/e0e1d82b-4930-44a5-b64d-e331f72a5f56)
+
 # Yam Eats
 
 Welcome to Yam Eats, a comprehensive platform designed to enhance the dining and delivery experience for customers, couriers, and restaurant owners. Yam Eats consists of three main components: the Customer App, the Courier App, and the Restaurant Dashboard Website. Each component is built with cutting-edge technologies to provide a seamless and efficient experience for all users.
